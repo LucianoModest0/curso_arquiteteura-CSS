@@ -1,4 +1,38 @@
 @import url(./header.css);
-@import url(./menu/menu-lista.css);
+@import url(./recipes.css);
+@import url(./people.css);
+@import url(./footer.css);
+
+/* Menu */
+@import url(./menu/menu-list.css);
 @import url(./menu/menu-item.css);
 @import url(./menu/menu-link.css);
+
+/* Banner */
+@import url(./banner/banner.css);
+@import url(./banner/banner-img.css);
+@import url(./banner/banner-title.css);
+
+/* About */
+@import url(./about/about.css);
+@import url(./about/about-title.css);
+@import url(./about/about-description.css);
+
+/* Recipe */
+@import url(./recipe/recipe.css);
+@import url(./recipe/recipe-content.css);
+@import url(./recipe/recipe-img.css);
+@import url(./recipe/recipe-title.css);
+@import url(./recipe/recipe-description.css);
+@import url(./recipe/recipe-button.css);
+
+/* About us */
+@import url(./aboutUs/aboutUs.css);
+@import url(./aboutUs/aboutUs-title.css);
+@import url(./aboutUs/aboutUs-description.css);
+
+/* Person */
+@import url(./person/person.css);
+@import url(./person/person__img.css);
+@import url(./person/person__name.css);
+@import url(./person/person__function.css);
